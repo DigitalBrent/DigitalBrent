@@ -1,2 +1,1 @@
-Hi, I’m @DigitalBrent
-Email: hello@digitalbrent.com
+Website: https://digitalbrent.com | Email: hello@digitalbrent.com
